@@ -1,0 +1,12 @@
+site_name: Introducción GNU/Linux
+theme:
+        name: 'material'
+nav:
+  - 'index.md'
+  - 'freeSoftware.md'
+  - 'GNU-Linux':
+    - 'GNU-linux/definition.md'
+    - 'GNU-linux/distros_introduction.md'
+    - 'GNU-linux/distros.md'
+  - 'instalacion/iso_&_boot.md'
+  - 'referencias.md'
